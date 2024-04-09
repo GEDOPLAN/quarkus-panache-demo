@@ -1,0 +1,3 @@
+GET http://localhost:8080/participant
+###
+GET http://localhost:8080/participant/1
